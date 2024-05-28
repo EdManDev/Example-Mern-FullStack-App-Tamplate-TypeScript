@@ -29,6 +29,7 @@ npm install --save-dev @types/mongoose
 npm install --save-dev @types/cors
 npm install -g ts-node
 npm install --save-dev ts-node
+npm install @types/mongoose
 
 
 ```
