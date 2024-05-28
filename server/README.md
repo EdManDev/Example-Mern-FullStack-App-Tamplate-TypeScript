@@ -24,12 +24,10 @@ Create a tsconfig.json file in the root of your project to configure TypeScript:
 ```
 
 ```install
-npm install @types/bcrypt bcrypt 
-npm install --save-dev @types/mongoose
-npm install --save-dev @types/cors
-npm install -g ts-node
-npm install --save-dev ts-node
-npm install @types/mongoose
-
-
+  npm install @types/bcrypt bcrypt 
+  npm install --save-dev @types/mongoose
+  npm install --save-dev @types/cors
+  npm install -g ts-node
+  npm install --save-dev ts-node
+  npm install @types/mongoose
 ```
